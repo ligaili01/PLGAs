@@ -6,7 +6,7 @@ Certainly! Below is a sample documentation for the provided code, which outlines
 
 ---
 
-# A spatial-temporal graph attention network]{A spatial-temporal graph attention network for protein-ligand binding affinity prediction  based
+# A spatial-temporal graph attention network for protein-ligand binding affinity prediction  based
 on molecular geometry
 
 This project implements a Graph Neural Network (GNN) to predict binding affinities using the PyTorch Geometric library. The model is trained and evaluated using RMSE and correlation coefficients (Pearson and Spearman) as metrics.
